@@ -5,6 +5,7 @@ Backend/node_modules
 /node_modules
 /.pnp
 .pnp.js
+./config
 
 # testing
 /coverage
@@ -18,6 +19,8 @@ Backend/node_modules
 .env.development.local
 .env.test.local
 .env.production.local
+
+
 
 npm-debug.log*
 yarn-debug.log*
